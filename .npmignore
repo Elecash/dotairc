@@ -1,0 +1,18 @@
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/*
+!.vscode/extensions.json
+
+# misc
+.env
+.airc
+
+# System Files
+.DS_Store
+Thumbs.db

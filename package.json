@@ -1,0 +1,21 @@
+{
+  "name": "dotairc",
+  "version": "1.0.0",
+  "description": "Generate .airc files for your AI agents",
+  "main": "index.js",
+  "bin": {
+    "dotairc": "./index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ai", "config", "generator"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "glob": "^10.3.10",
+    "fs-extra": "^11.2.0"
+  }
+}
