@@ -15,3 +15,4 @@ Critical Requirements:
 - Implement proper responsive design patterns
 - Use proper CSS Grid and Flexbox layouts
 - Use @use and @forward instead of @import
+- Use always "sass:math" for math operations outside of calc() (for example, math.div($spacing-base, 2) or calc($spacing-base / 2))

@@ -12,7 +12,6 @@ Critical Requirements:
 - Use always standalone components
 - Use always @inject() instead of constructor injectors
 - Never use functions in templates unless these functions are angular signals
-- Use computed() for derived signal values instead of methods
 - Implement proper change detection strategy (OnPush by default)
 - Use effect() for handling side effects in components
 - Use proper route guards with functional routing approach
