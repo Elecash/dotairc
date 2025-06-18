@@ -1,6 +1,6 @@
 {
   "name": "dotairc",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Generate .airc files for your AI agents",
   "main": "index.js",
   "bin": {
