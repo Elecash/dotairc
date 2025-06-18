@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/elecash/dotairc/compare/v1.0.3...v1.1.0) (2025-06-18)
+
+
+### Features
+
+* **config:** add semantic release, commitizen and support for vuejs files ([3796923](https://github.com/elecash/dotairc/commit/379692321fc5e71df240ac834517762806b114be))
+
 # 1.0.0 (2025-06-18)
 
 
