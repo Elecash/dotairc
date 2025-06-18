@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/elecash/dotairc/compare/v1.1.0...v1.1.1) (2025-06-18)
+
+
+### Bug Fixes
+
+* **angular:** use Angular recommmended prompts ([ed9e86e](https://github.com/elecash/dotairc/commit/ed9e86e4ef2fa3ccc5812125bab2bb2593be56a9))
+
 # [1.1.0](https://github.com/elecash/dotairc/compare/v1.0.3...v1.1.0) (2025-06-18)
 
 
