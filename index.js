@@ -24,7 +24,7 @@ async function generateAIRC() {
         .filter(tech => tech.length > 0);
     let combinedContent = '# AI Agent Instructions\n\n';
 
-    // Create templates directory structure if it doesn't exist
+    // Create a template directory structure if it doesn't exist
     const templatesDir = path.join(__dirname, 'templates');
     await fs.ensureDir(templatesDir);
 
