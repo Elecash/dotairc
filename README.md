@@ -19,13 +19,13 @@ Basic Usage:
 Generate an .airc file for your project by specifying your technology stack:
 
 ```
-npx dotairc --stack=angular,html,scss,nx
+npx dotairc --stack=angular,html,sass,nx
 ```
 
 Supported Technologies:
 - [Angular](templates/angular.md)
 - [NX](templates/nx.md)
-- [SCSS](templates/scss.md)
+- [SASS](templates/sass.md)
 - [HTML](templates/html.md)
 - [Vue](templates/vue.md)
 
