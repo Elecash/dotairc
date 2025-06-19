@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/elecash/dotairc/compare/v1.1.2...v1.2.0) (2025-06-19)
+
+
+### Features
+
+* **css:** added CSS, updated SCSS to SASS, and updated Angular style guide ([8cf9e00](https://github.com/elecash/dotairc/commit/8cf9e005816fbc959178dacf02d55b7217814cad))
+
 ## [1.1.2](https://github.com/elecash/dotairc/compare/v1.1.1...v1.1.2) (2025-06-18)
 
 
