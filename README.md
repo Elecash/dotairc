@@ -24,10 +24,11 @@ npx dotairc --stack=angular,html,sass,nx
 
 Supported Technologies:
 - [Angular](templates/angular.md)
-- [NX](templates/nx.md)
-- [SASS](templates/sass.md)
-- [HTML](templates/html.md)
 - [Vue](templates/vue.md)
+- [HTML](templates/html.md)
+- [CSS](templates/css.md)
+- [SASS](templates/sass.md)
+- [NX](templates/nx.md)
 
 ## OUTPUT
 
